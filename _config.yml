@@ -1,0 +1,8 @@
+title: Course-era-test
+description: Html,css and javascript course course era
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
