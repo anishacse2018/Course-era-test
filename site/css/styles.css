@@ -261,8 +261,7 @@ h3.menu-item-title {
 @media (min-width: 768px) and (max-width: 991px) {
   /* Home Page */
   .container .jumbotron {
-   /* background: url('/Course-era-test/site/menu/jumbotron_768.jpg') no-repeat;*/
-    background: url('/Course-era-test/blob/gh-pages/site/menu/jumbotron_768.jpg') no-repeat;
+    background: url('/Course-era-test/site/menu/jumbotron_768.jpg') no-repeat;
     height: 432px;
   }
   /* End Home Page */
