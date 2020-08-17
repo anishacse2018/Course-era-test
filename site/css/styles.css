@@ -232,7 +232,7 @@ h3.menu-item-title {
 
 /********** Large devices only **********/
 @media (min-width: 1200px) {
-  .container .jumbotron {
+  .container.jumbotron {
     background: url('/Course-era-test/site/menu/jumbotron_1200.jpg') no-repeat;
     height: 675px;
   }
@@ -250,7 +250,7 @@ h3.menu-item-title {
   /* End Header */
 
   /* Home Page */
-  .container .jumbotron {
+  .container.jumbotron {
     background: url('/Course-era-test/site/menu/jumbotron_992.jpg') no-repeat;
     height: 558px;
   }
@@ -260,7 +260,7 @@ h3.menu-item-title {
 /********** Small devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
   /* Home Page */
-  .container .jumbotron {
+  .container.jumbotron {
     background: url('/Course-era-test/site/menu/jumbotron_768.jpg') no-repeat;
     height: 432px;
   }
